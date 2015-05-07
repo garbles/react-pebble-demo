@@ -4,7 +4,7 @@ With the advent of libraries like React Canvas and React Native, it is obvious t
 
 This is a proof of concept demo for my [VanJS Talk, "React.js: Beyond the Browser"](http://www.meetup.com/vancouver-javascript-developers/events/222162125/).
 
-It is not production ready. In fact, it's barely working. Uses a modified version of the Pebble.js libs so that they support webpack.
+It is not production ready. In fact, it's barely working. [Uses a modified version of the Pebble.js libs](https://github.com/pebble/pebblejs) so that they support webpack build pipeline.
 
 ## Installing
 
