@@ -1,5 +1,7 @@
 # React.js running on a Pebble watch
 
+![zomg](http://i.imgur.com/gvdQMV0.gif)
+
 With the advent of libraries like React Canvas and React Native, it is obvious that rendering views in React is not limited to the DOM.
 
 This is a proof of concept demo for my [VanJS Talk, "React.js: Beyond the Browser"](http://www.meetup.com/vancouver-javascript-developers/events/222162125/). It is definitely not being maintained.
